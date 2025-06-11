@@ -33,4 +33,5 @@
 
 # ignore build files and compolier files
 build
+audioFiles
 .vscode
